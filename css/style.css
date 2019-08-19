@@ -138,10 +138,8 @@ body{
     right: 144px;
 }
 .owl-dots{
-    width: 100px;
     bottom: 39px;
     left: 50%;
-    margin-left: -45px;     /* <---- так не можна робити */
     position: absolute;
 }
 .owl-dots .owl-dot span{
