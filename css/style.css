@@ -463,6 +463,10 @@ body{
     padding: 60px 0 30px;
     position: relative;
 }
+.flexrow{
+    display: flex;
+    justify-content: space-around;
+}
 .item_block7{
     width: 136px;
 }
@@ -474,7 +478,7 @@ body{
     height: 2px;
     width: 30px;
     transition: 0.3s;
-    left: 35%;
+    margin-left: 4%;
 }
 .item_block7 img{
     display: block;
