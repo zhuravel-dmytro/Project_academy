@@ -122,6 +122,7 @@ body{
     position: absolute;
     top: 50%;
     left: 150px;
+    outline: none;
 }
 #top_slider.owl-carousel .owl-nav .owl-prev:hover{
     left: 145px;
@@ -133,6 +134,7 @@ body{
     position: absolute;
     top: 50%;
     right: 149px;
+    outline: none;
 }
 #top_slider.owl-carousel .owl-nav .owl-next:hover{
     right: 144px;
@@ -150,13 +152,14 @@ body{
     float: left;
     margin-right: 10px;
     
-    
 }
 .owl-dots .owl-dot.active span{
     border: solid 2px #cfbeaa;
     background: none;
 }
-
+.owl-dots .owl-dot{
+    outline: none;
+}
 /*      BLOCK ONE      */
 
 .block1{
