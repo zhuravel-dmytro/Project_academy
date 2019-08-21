@@ -28,6 +28,10 @@ body{
     float: left;
     margin-left: 155px;
 }
+.logo:hover{
+    margin-left: 150px;
+}
+
 .all-menu{
     padding-top: 15px;
     width: 60%;
